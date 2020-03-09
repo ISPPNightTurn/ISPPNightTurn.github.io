@@ -11,7 +11,7 @@ function Contact(props){
     }
     return(
         <div style={style} className='contact-card'>
-            <img style={{maxWidth: '20%', height: 'auto', borderRadius: '50%'}} src={props.imgUrl} alt='Imagen de perfil' />
+            <img style={{maxWidth: '20%', height: 'auto', borderRadius: '45%', borderTop: '50px solid transparent'}} src={props.imgUrl} alt='Imagen de perfil' />
             <h3 style={{fontSize: 25, borderLeft: '50px solid transparent'}}>{props.name}</h3>
             <h4 style={{borderLeft: '50px solid transparent'}}>{props.job}</h4>
         </div>
