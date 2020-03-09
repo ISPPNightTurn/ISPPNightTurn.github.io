@@ -29,7 +29,7 @@ function Team(){
 
                     ) : (
                         <div>
-                            <h1>¿Quienes somos?</h1>
+                            <h1 style={{display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'white', fontFamily: 'Montserrat'}}>¿Quienes somos?</h1>
 
                             <div>
                                 <Contact name='Raimundo Flores' imgUrl='https://i.imgur.com/VYgalRZ.jpg' job='Project Manager / Front End' />
