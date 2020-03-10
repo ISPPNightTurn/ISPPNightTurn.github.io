@@ -49,11 +49,11 @@ function Mockups(){
                             <h4>Revisa los eventos disponibles a tu alrededor</h4>
                         </div>
                         <div style={substyle}>
-                            <img  style={{maxWidth: '60%', height: 'auto'}} src='https://i.imgur.com/3G5I6m9.png' alt='Comprar entradas' />
+                            <img  style={{maxWidth: '60%', height: 'auto'}} src='https://i.imgur.com/ELY1uwd.png' alt='Comprar entradas' />
                             <h4>Compra tus entradas desde la misma aplicación</h4>
                         </div>
                         <div style={substyle}>
-                            <img  style={{maxWidth: '60%', height: 'auto'}} src='https://i.imgur.com/rLt1Bd2.jpg' alt='Comprar consumiciones' />
+                            <img  style={{maxWidth: '60%', height: 'auto'}} src='https://i.imgur.com/3GQ6ExC.png' alt='Comprar consumiciones' />
                             <h4>¿No se enteran de lo que pides? Compra tus consumiciones desde la app</h4>
                         </div>
                         </div>
@@ -64,11 +64,11 @@ function Mockups(){
                             <h4>Revisa los eventos disponibles a tu alrededor</h4>
                         </div>
                         <div style={substyleDesktop}>
-                            <img  style={{maxWidth: '30%', height: 'auto'}} src='https://i.imgur.com/3G5I6m9.png' alt='Comprar entradas' />
+                            <img  style={{maxWidth: '30%', height: 'auto'}} src='https://i.imgur.com/ELY1uwd.png' alt='Comprar entradas' />
                             <h4>Compra tus entradas desde la misma aplicación</h4>
                         </div>
                         <div style={substyleDesktop}>
-                            <img  style={{maxWidth: '30%', height: 'auto'}} src='https://i.imgur.com/rLt1Bd2.jpg' alt='Comprar consumiciones' />
+                            <img  style={{maxWidth: '30%', height: 'auto'}} src='https://i.imgur.com/3GQ6ExC.png' alt='Comprar consumiciones' />
                             <h4>¿No se enteran de lo que pides? Compra tus consumiciones desde la app</h4>
                         </div>
                         </div>
