@@ -12,7 +12,7 @@ function Clubby(){
     }
     return(
         <div style={styles}>
-            <img style={{width: "60%", height: "auto"}} src='https://i.imgur.com/CTEvwCV.png' alt='Clubby' />
+            <img style={{width: "60%", height: "auto"}} src='https://i.imgur.com/mVcN4QK.png' alt='Clubby' />
         </div>
     )
 }
