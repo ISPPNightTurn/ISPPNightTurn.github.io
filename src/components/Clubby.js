@@ -3,7 +3,7 @@ import React from 'react'
 function Clubby(){
     const styles = {
         backgroundColor: "#FA5151",
-        marginBottom: "20%",
+        marginBottom: "15%",
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
@@ -14,7 +14,7 @@ function Clubby(){
 
     return(
         <div style={styles}>
-            <video id="background-video" loop autoPlay>
+            <video style={{width: '100%', height: 'auto', display: "flex", alignItems: 'center', justifyContent: 'center'}} id="background-video" loop autoPlay muted>
                 <source src={require("./party.webm")} type="video/mp4" />
                 <source src={require("./party.webm")} type="video/ogg" />
             </video>
