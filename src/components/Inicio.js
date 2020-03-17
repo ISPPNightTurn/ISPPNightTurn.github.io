@@ -31,6 +31,26 @@ function Inicio(){
             <h2 style={styleHDos}>
                 ¡Prueba Clubby!
             </h2>
+
+            <a style={
+                                {
+                                    backgroundColor: 'purple', 
+                                    textDecoration: 'none',
+                                    border: 'none',
+                                    padding: '15px 32px', 
+                                    borderRadius: '12px', 
+                                    fontSize: 20, 
+                                    fontWeight: 'bold', 
+                                    width: '200px', 
+                                    display: 'flex', 
+                                    margin: 'auto', 
+                                    justifyContent: 'center', 
+                                    alignItems: 'center', 
+                                    color: 'white', 
+                                    fontFamily: 'Montserrat',
+                                    textAlign: 'center'
+                                }
+                            } href="https://clubby-sprint1.herokuapp.com/clubby/">¡Pruébalo aquí!</a> 
         </div>
     )
 }
